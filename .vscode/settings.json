@@ -1,0 +1,15 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.rulers": [
+        {
+            "column": 80, //spacing of 1st column from left
+            "color": "#FF9900"
+        },
+        100, // 2nd ruler with no color option
+        {
+            "column": 120, // third ruler
+            "color": "#9F0AF5"
+        }
+    ]
+}
